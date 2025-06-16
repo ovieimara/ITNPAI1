@@ -1,0 +1,14 @@
+%%capture output
+!pip install langchain-openai openai
+!pip install pdfplumber
+!pip install python-dotenv
+!pip install PyPDF2
+!pip install pycryptodome
+!pip install pdfplumber spacy transformers langchain openai
+!pip install -U langchain-community
+!pip install pypdf
+!pip install chromadb
+!pip install faiss-cpu
+!pip install faiss-gpu
+!pip install --upgrade langchain
+!pip install nltk
